@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "hexapi-extractor",
+  "version": "1",
+
+  "name": "HexAPI Extractor",
+  "license": "MIT",
+
+  "environment": "*",
+  "entrypoints": {}
+}
